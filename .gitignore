@@ -1,0 +1,11 @@
+tools/venv/
+.venv/
+__pycache__/
+*.pyc
+*.dSYM/
+*_obj/
+.DS_Store
+uart.jsonl
+demo.jsonl
+**/artifacts/test_core
+**/artifacts/test_devices

@@ -1,0 +1,3 @@
+/Users/temo4ka/ITMO/proection_vs/ЛР2-4/tools/toolchain/bin/arm-none-eabi-size Debug/Compass_LR3_V2_HAL_STM32F407xx.elf
+   text	   data	    bss	    dec	    hex	filename
+  51088	   1768	  10952	  63808	   f940	Debug/Compass_LR3_V2_HAL_STM32F407xx.elf

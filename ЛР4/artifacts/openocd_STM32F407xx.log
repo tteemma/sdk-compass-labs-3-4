@@ -1,0 +1,8 @@
+/Users/temo4ka/ITMO/proection_vs/ЛР2-4/tools/toolchain/bin/arm-none-eabi-size Debug/Compass_RTOS_LR4_V2_HAL_STM32F407xx.elf
+   text	   data	    bss	    dec	    hex	filename
+  56304	   1772	  52044	 110120	  1ae28	Debug/Compass_RTOS_LR4_V2_HAL_STM32F407xx.elf
+Open On-Chip Debugger 0.12.0
+Licensed under GNU GPL v2
+For bug reports, read
+	http://openocd.org/doc/doxygen/bugs.html
+shutdown command invoked

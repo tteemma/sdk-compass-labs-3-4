@@ -1,0 +1,10 @@
+PASS compass: headings, zero field, signed extremes, scaling 0..200, invalid protocol, FIFO rollover
+PASS I2C/OLED mocks: 7-bit addresses, DS1/DS0 identification, BDU, reset preserves pins, 1024-byte frame, stale data, faults/retry
+test_demo_handshake_scales_and_log (test_client.ClientTests) ... ok
+test_protocol (test_client.ClientTests) ... ok
+test_real_serial_pty_fragmented_messages (test_client.ClientTests) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.079s
+
+OK
